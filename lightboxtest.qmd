@@ -1,6 +1,0 @@
----
-title: Simple Lightbox Example
-lightbox: true
----
-
-![A Lovely Image](https://www.seokratie.de/wp-content/uploads/2019/04/bilder-seo-1.jpg.webp){width=50%}

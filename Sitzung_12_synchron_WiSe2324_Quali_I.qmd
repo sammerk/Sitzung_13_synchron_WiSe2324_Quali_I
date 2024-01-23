@@ -21,7 +21,10 @@ lightbox: true
 
 ## Heutige Sitzung {.center .smaller}
 
--   Der Qualitative Forschungsprozess
+- Wdh.
+- Der Qualitative Forschungsprozess
+- Sinnebenen und Charakteristika qualitativer Forschung
+- Bsp. qualitativer Forschung
 
 ```{r hidden chunk which creates template stuff}
 #| echo: false
@@ -214,23 +217,23 @@ Meist erfolgen Mixed Methods Studien entweder im sogenannten Vorstudien- oder im
 
 ## Ganzheitlichkeit und Rekonstruktion {.smaller}
 
-> Ontologisch wird die im qualitativen Paradigma empirischer Sozialforschung untersuchte soziale Wirklichkeit auf der Ebene der alltäglichen Lebenswelt der Individuen angesiedelt. Denn menschliches Erleben und Handeln lässt sich im Verständnis des qualitativen Paradigmas nicht durch allgemeine Gesetzmäßigkeiten kausal erklären, sondern nur anhand der jeweils individuellen Weltsichten und Sinngebungen der Beteiligten in ihren jeweiligen Alltagszusammenhängen verstehen und intentional erklären. Durch diese Gegenstandsbestimmung befinden sich nicht-lebensweltliche Makro- und Mikro-Phänomene außerhalb des Fokus der qualitativen Sozialforschung [@doering2016].
+> *"Ontologisch wird die im qualitativen Paradigma empirischer Sozialforschung untersuchte soziale Wirklichkeit auf der Ebene der alltäglichen Lebenswelt der Individuen angesiedelt. Denn menschliches Erleben und Handeln lässt sich im Verständnis des qualitativen Paradigmas nicht durch allgemeine Gesetzmäßigkeiten kausal erklären, sondern nur anhand der jeweils individuellen Weltsichten und Sinngebungen der Beteiligten in ihren jeweiligen Alltagszusammenhängen verstehen und intentional erklären. Durch diese Gegenstandsbestimmung befinden sich nicht-lebensweltliche Makro- und Mikro-Phänomene außerhalb des Fokus der qualitativen Sozialforschung"* [@doering2016].
 
 ## Theoretische Offenheit {.smaller}
 
-> Erkenntnisgewinn zielt im Paradigma der qualitativen Sozialforschung vor allem auf die Bildung neuer Hypothesen und Theorien ab, die passgenau auf den jeweiligen Untersuchungsgegenstand (d. h. ein lebensweltliches soziales Phänomen) zugeschnitten sind. Deswegen sollen sich die Forschenden eben nicht mit einer bereits im Vorfeld ausgewählten fertigen Theorie und vordefinierten theoretischen Konstrukten mit einem durchstrukturierten Forschungsprozess dem Gegenstand nähern. Stattdessen sollen sie ihr (immer in gewisser Weise vorhandenes und auch notwendiges) Vorverständnis kritisch hinterfragen und ausdrücklich offen sein für Fälle, Situationen und Daten, die ihren Vorannahmen widersprechen und somit über die bisherigen theoretischen Vorstellungen hinaus neue Kenntnisse über den Untersuchungsgegenstand vermitteln [@doering2016].
+> *"Erkenntnisgewinn zielt im Paradigma der qualitativen Sozialforschung vor allem auf die Bildung neuer Hypothesen und Theorien ab, die passgenau auf den jeweiligen Untersuchungsgegenstand (d. h. ein lebensweltliches soziales Phänomen) zugeschnitten sind. Deswegen sollen sich die Forschenden eben nicht mit einer bereits im Vorfeld ausgewählten fertigen Theorie und vordefinierten theoretischen Konstrukten mit einem durchstrukturierten Forschungsprozess dem Gegenstand nähern. Stattdessen sollen sie ihr (immer in gewisser Weise vorhandenes und auch notwendiges) Vorverständnis kritisch hinterfragen und ausdrücklich offen sein für Fälle, Situationen und Daten, die ihren Vorannahmen widersprechen und somit über die bisherigen theoretischen Vorstellungen hinaus neue Kenntnisse über den Untersuchungsgegenstand vermitteln"* [@doering2016].
 
 ## Zirkularität des Forschungsprozesses {.smaller}
 
-> Der qualitative Forschungsprozess wird nicht vorab vollständig durchgeplant, festgelegt und dann linear abgearbeitet, sondern idealerweise flexibel gestaltet: In mehreren Untersuchungszyklen innerhalb einer Studie sollen anhand der Zwischenergebnisse jeweils das Untersuchungsdesign, die Auswahl der Fälle und/oder die Datenerhebungs- und Datenanalyse-Hilfsmittel überarbeitet (Flexibilität des Vorgehens) und dem untersuchten Gegenstand somit schrittweise immer besser angepasst werden (Zirkularität bzw. Spiralförmigkeit der verstehenden Annäherung an den Untersuchungsgegenstand) [@doering2016].
+> *"Der qualitative Forschungsprozess wird nicht vorab vollständig durchgeplant, festgelegt und dann linear abgearbeitet, sondern idealerweise flexibel gestaltet: In mehreren Untersuchungszyklen innerhalb einer Studie sollen anhand der Zwischenergebnisse jeweils das Untersuchungsdesign, die Auswahl der Fälle und/oder die Datenerhebungs- und Datenanalyse-Hilfsmittel überarbeitet (Flexibilität des Vorgehens) und dem untersuchten Gegenstand somit schrittweise immer besser angepasst werden (Zirkularität bzw. Spiralförmigkeit der verstehenden Annäherung an den Untersuchungsgegenstand)"* [@doering2016].
 
 ## Forschung als Kommunikation {.smaller}
 
-> Da der qualitative Ansatz in der Regel auf die Rekonstruktion der Sichtweisen der am untersuchten sozialen Phänomen Beteiligten abzielt, ist die direkte (zuweilen auch medienvermittelte) Kommunikation zwischen Forschenden und Beforschten das zentrale Erkenntnismittel. Damit diese Kommunikation ein möglichst weitreichendes Fremdverstehen ermöglicht, ist eine kooperative Haltung auf beiden Seiten notwendig. Die Beforschten müssen sich vertrauensvoll öffnen und die Forschenden müssen sich persönlich in den Kontakt einbringen und ein dem jeweiligen Gegenüber und dem Forschungsziel angemessenes Arbeitsbündnis aufbauen, dieses reflektieren und dokumentieren [@doering2016].
+> *"Da der qualitative Ansatz in der Regel auf die Rekonstruktion der Sichtweisen der am untersuchten sozialen Phänomen Beteiligten abzielt, ist die direkte (zuweilen auch medienvermittelte) Kommunikation zwischen Forschenden und Beforschten das zentrale Erkenntnismittel. Damit diese Kommunikation ein möglichst weitreichendes Fremdverstehen ermöglicht, ist eine kooperative Haltung auf beiden Seiten notwendig. Die Beforschten müssen sich vertrauensvoll öffnen und die Forschenden müssen sich persönlich in den Kontakt einbringen und ein dem jeweiligen Gegenüber und dem Forschungsziel angemessenes Arbeitsbündnis aufbauen, dieses reflektieren und dokumentieren"* [@doering2016].
 
 ## Selbstreflektion der Forschenden {.smaller}
 
-> Das qualitative Paradigma empirischer Sozialforschung vertritt eine subjektivistische Erkenntnistheorie, dergemäß der Erkenntnisprozess immer untrennbar mit der Person der Forschenden ihrer Subjektivität und Perspektivität – verknüpft ist. Ihr persönliches Verhältnis zum jeweiligen Untersuchungsgegenstand und zu den Untersuchungspersonen müssen Forschende deswegen kritisch reflektieren. Die Reflexion der Subjektivität und Perspektivität gilt als zentrale Erkenntnisquelle und muss entsprechend auch dokumentiert werden. Das betrifft nicht zuletzt die Position und Perspektive der Forschenden im Kontext sozialer Hierarchien und gesellschaftlicher Machtverhältnisse [@doering2016].
+> *"Das qualitative Paradigma empirischer Sozialforschung vertritt eine subjektivistische Erkenntnistheorie, dergemäß der Erkenntnisprozess immer untrennbar mit der Person der Forschenden ihrer Subjektivität und Perspektivität – verknüpft ist. Ihr persönliches Verhältnis zum jeweiligen Untersuchungsgegenstand und zu den Untersuchungspersonen müssen Forschende deswegen kritisch reflektieren. Die Reflexion der Subjektivität und Perspektivität gilt als zentrale Erkenntnisquelle und muss entsprechend auch dokumentiert werden. Das betrifft nicht zuletzt die Position und Perspektive der Forschenden im Kontext sozialer Hierarchien und gesellschaftlicher Machtverhältnisse"* [@doering2016].
 
 # Unterscheidung qualitativer & quantitativer Sozialforschung
 
